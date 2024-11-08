@@ -10,7 +10,9 @@
     "postbuild": "npm run sitemap && npm run rss:feed",
     "sitemap": "next-sitemap --config next-sitemap.config.js",
     "rss:feed": "run-func scripts/generate-rss.js generate",
-    "pages:build": "npx @cloudflare/next-on-pages"
+    "pages:build": "npx @cloudflare/next-on-pages",
+    "preview": "npm run pages:build && wrangler pages dev",
+    "deploy": "npm run pages:build && wrangler pages deploy"
   },
   "dependencies": {
     "@chakra-ui/react": "^2.3.6",
