@@ -4,7 +4,7 @@
         <description><![CDATA[Hey! I am Alex, a full-stack developer from Vietnam.]]></description>
         <link>https://portfolio.haidinh.link</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 22 Jul 2024 06:34:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Nov 2024 07:10:42 GMT</lastBuildDate>
         <atom:link href="https://portfolio.haidinh.link/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Alex Dinh', | 2024]]></copyright>
         <language><![CDATA[en]]></language>
@@ -71,22 +71,6 @@
             <pubDate>Sat, 25 Mar 2023 17:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Deploy your React app using GitHub pages]]></title>
-            <description><![CDATA[Showcase your React app to the world with Github Pages]]></description>
-            <link>https://portfolio.haidinh.link/deploy-your-react-app-using-github-pages</link>
-            <guid isPermaLink="true">https://portfolio.haidinh.link/deploy-your-react-app-using-github-pages</guid>
-            <category><![CDATA[Open Source]]></category>
-            <category><![CDATA[React]]></category>
-            <category><![CDATA[GitHub]]></category>
-            <category><![CDATA[JavaScript]]></category>
-            <category><![CDATA[Deployment]]></category>
-            <category><![CDATA[GitHub Pages]]></category>
-            <category><![CDATA[Web Development]]></category>
-            <category><![CDATA[JavaScript]]></category>
-            <dc:creator><![CDATA[Alex Dinh]]></dc:creator>
-            <pubDate>Sun, 02 Apr 2023 17:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[How to deploy the Headless CMS Strapi app on Heroku]]></title>
             <description><![CDATA[Get started with the Strapi headless CMS]]></description>
             <link>https://portfolio.haidinh.link/how-to-deploy-the-headless-cms-strapi-app-on-heroku</link>
@@ -130,6 +114,25 @@
             <pubDate>Wed, 22 Sep 2021 17:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Supercharge your React app with useSWR]]></title>
+            <description><![CDATA[Saves You the Stress of Writing Your Own Logic]]></description>
+            <link>https://portfolio.haidinh.link/supercharge-your-react-app-with-useswr</link>
+            <guid isPermaLink="true">https://portfolio.haidinh.link/supercharge-your-react-app-with-useswr</guid>
+            <category><![CDATA[JavaScript]]></category>
+            <category><![CDATA[Open Source]]></category>
+            <category><![CDATA[API]]></category>
+            <category><![CDATA[Error]]></category>
+            <category><![CDATA[Client]]></category>
+            <category><![CDATA[Request]]></category>
+            <category><![CDATA[Response]]></category>
+            <category><![CDATA[React]]></category>
+            <category><![CDATA[Hooks]]></category>
+            <category><![CDATA[Next.js]]></category>
+            <category><![CDATA[Frontend]]></category>
+            <dc:creator><![CDATA[Alex Dinh]]></dc:creator>
+            <pubDate>Tue, 28 Mar 2023 17:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[MVC, MVP, MVVM, MVVM-C, and VIPER architecture patterns]]></title>
             <description><![CDATA[Software architectural patterns]]></description>
             <link>https://portfolio.haidinh.link/mvc-architecture-patterns</link>
@@ -165,23 +168,20 @@
             <pubDate>Sun, 26 Mar 2023 17:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Supercharge your React app with useSWR]]></title>
-            <description><![CDATA[Saves You the Stress of Writing Your Own Logic]]></description>
-            <link>https://portfolio.haidinh.link/supercharge-your-react-app-with-useswr</link>
-            <guid isPermaLink="true">https://portfolio.haidinh.link/supercharge-your-react-app-with-useswr</guid>
-            <category><![CDATA[JavaScript]]></category>
+            <title><![CDATA[Deploy your React app using GitHub pages]]></title>
+            <description><![CDATA[Showcase your React app to the world with Github Pages]]></description>
+            <link>https://portfolio.haidinh.link/deploy-your-react-app-using-github-pages</link>
+            <guid isPermaLink="true">https://portfolio.haidinh.link/deploy-your-react-app-using-github-pages</guid>
             <category><![CDATA[Open Source]]></category>
-            <category><![CDATA[API]]></category>
-            <category><![CDATA[Error]]></category>
-            <category><![CDATA[Client]]></category>
-            <category><![CDATA[Request]]></category>
-            <category><![CDATA[Response]]></category>
             <category><![CDATA[React]]></category>
-            <category><![CDATA[Hooks]]></category>
-            <category><![CDATA[Next.js]]></category>
-            <category><![CDATA[Frontend]]></category>
+            <category><![CDATA[GitHub]]></category>
+            <category><![CDATA[JavaScript]]></category>
+            <category><![CDATA[Deployment]]></category>
+            <category><![CDATA[GitHub Pages]]></category>
+            <category><![CDATA[Web Development]]></category>
+            <category><![CDATA[JavaScript]]></category>
             <dc:creator><![CDATA[Alex Dinh]]></dc:creator>
-            <pubDate>Tue, 28 Mar 2023 17:00:00 GMT</pubDate>
+            <pubDate>Sun, 02 Apr 2023 17:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

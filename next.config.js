@@ -1,5 +1,3 @@
-import { setupDevPlatform } from '@cloudflare/next-on-pages/next-dev';
-
 const withMDX = require('@next/mdx')({
   extension: /\.mdx?$/,
   options: {
