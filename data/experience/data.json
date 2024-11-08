@@ -1,0 +1,106 @@
+[
+  {
+    "role": "Software Engineer",
+    "company": "FPT software",
+    "company_url": "https://fptsoftware.com/",
+    "start_date": "Jun 2023",
+    "end_date": "Now",
+    "location": "Hanoi, Vietnam",
+    "work_type": "Onsite",
+    "role_description": [
+      "Worked on the software engineer of the company's website, built new features, and improved the user experience.",
+      "Implemented a new design system for the website, improved the performance, and optimized the codebase.",
+      "Communicated with the designer to implement new designs and features, and worked with the Technical Consultant to integrate new APIs.",
+      "Join meetings with the team to discuss new features, improvements, and bugs, and worked with the QA team to fix bugs and improve the quality of the website."
+    ],
+    "tech_stack": [
+      "Reactjs",
+      "JavaScript",
+      "Angular",
+      "Vue",
+      "Ant design",
+      "Tailwindcss",
+      "Kendo UI",
+      "Soap API",
+      "React Native",
+      "NodeJS"
+    ]
+  },
+  {
+    "role": "Software Engineer",
+    "company": "Jetweels",
+    "company_url": "https://www.jetweels.com/",
+    "start_date": "Apr 2023",
+    "end_date": "Now",
+    "location": "Remote",
+    "work_type": "Remote",
+    "role_description": [
+      "Worked on the frontend of the company's website, built new features, and improved the user experience.",
+      "Implemented a new design system for the website, improved the performance, and optimized the codebase.",
+      "Communicated with the designer to implement new designs and features, and worked with the Technical Consultant to integrate new APIs.",
+      "Join meetings with the team to discuss new features, improvements, and bugs, and worked with the QA team to fix bugs and improve the quality of the website."
+    ],
+    "tech_stack": [
+      "Reactjs",
+      "JavaScript",
+      "Ant design",
+      "Tailwindcss",
+      "Kendo UI",
+      "Soap API",
+      "React Native"
+    ]
+  },
+  {
+    "role": "Software Engineer",
+    "company": "CMC Global",
+    "company_url": "https://cmcglobal.com.vn/",
+    "start_date": "Sep 2022",
+    "end_date": "Apr 2023",
+    "duration": "7 months",
+    "location": "Hanoi, Vietnam",
+    "work_type": "Onsite",
+    "role_description": [
+      "Worked on a dashboard application based on a SaaS product that helps Slack communities without leaving slack.",
+      "Worked on creating sitemaps for the product, auth and password recovery feature, and frontend UI improvements.",
+      "Implemented security measures of LogRocket and introduced events module feature for hosting community events."
+    ],
+    "tech_stack": [
+      "Nodejs",
+      "JavaScript",
+      "React Native",
+      "Tailwindcss",
+      "API Development",
+      "MongoDb",
+      "React JS"
+    ]
+  },
+  {
+    "role": "Software Engineer",
+    "company": "Amela",
+    "company_url": "https://amela.vn",
+    "start_date": "Feb 2019",
+    "end_date": "Sep 2022",
+    "duration": "3 years 7 months",
+    "location": "Vietnam",
+    "work_type": "Onsite",
+    "role_description": [
+      "Started my career as an intern, worked on the frontend and backend of the company's website and internal tools.",
+      "Join the team to build a new product, a web-based application for managing and tracking employee performance.",
+      "Improve my skills in JavaScript, Reactjs, ExpressJS, SQL, and other technologies, and learn about the software development process."
+    ],
+    "tech_stack": [
+      "JavaScript",
+      "Tailwindcss",
+      "TypeScript",
+      "Chartjs",
+      "Storybook",
+      "Ant design",
+      "Figma",
+      "Nodejs",
+      "Expressjs",
+      "MySQL",
+      "AWS",
+      "GCP"
+    ]
+  }
+]

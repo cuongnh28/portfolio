@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://portfolio.haidinh.link
+
+# Sitemaps
+Sitemap: https://portfolio.haidinh.link/sitemap.xml

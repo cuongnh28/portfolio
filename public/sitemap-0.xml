@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url><loc>https://portfolio.haidinh.link</loc><lastmod>2024-07-22T06:34:30.617Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://portfolio.haidinh.link/about</loc><lastmod>2024-07-22T06:34:30.618Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://portfolio.haidinh.link/blogs</loc><lastmod>2024-07-22T06:34:30.618Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://portfolio.haidinh.link/contact</loc><lastmod>2024-07-22T06:34:30.618Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://portfolio.haidinh.link/experience</loc><lastmod>2024-07-22T06:34:30.618Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://portfolio.haidinh.link/links</loc><lastmod>2024-07-22T06:34:30.618Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://portfolio.haidinh.link/projects</loc><lastmod>2024-07-22T06:34:30.618Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://portfolio.haidinh.link/resume</loc><lastmod>2024-07-22T06:34:30.618Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://portfolio.haidinh.link/github</loc><lastmod>2024-07-22T06:34:30.618Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://portfolio.haidinh.link/blogs/api-architectural-style</loc><lastmod>2024-07-22T06:34:30.618Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://portfolio.haidinh.link/blogs/build-an-api-with-serverless-functions-in-nextjs</loc><lastmod>2024-07-22T06:34:30.618Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://portfolio.haidinh.link/blogs/crafting-effective-chaos-error-messages</loc><lastmod>2024-07-22T06:34:30.618Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://portfolio.haidinh.link/blogs/deploy-your-react-app-using-github-pages</loc><lastmod>2024-07-22T06:34:30.618Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://portfolio.haidinh.link/blogs/how-to-deploy-the-headless-cms-strapi-app-on-heroku</loc><lastmod>2024-07-22T06:34:30.618Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://portfolio.haidinh.link/blogs/http-status-codes</loc><lastmod>2024-07-22T06:34:30.618Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://portfolio.haidinh.link/blogs/lets-grow-with-letsgrowmore</loc><lastmod>2024-07-22T06:34:30.618Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://portfolio.haidinh.link/blogs/mvc-architecture-patterns</loc><lastmod>2024-07-22T06:34:30.618Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://portfolio.haidinh.link/blogs/supercharge-your-react-app-with-useswr</loc><lastmod>2024-07-22T06:34:30.618Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://portfolio.haidinh.link/blogs/why-is-nginx-called-a-reverse-proxy</loc><lastmod>2024-07-22T06:34:30.618Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+</urlset>
